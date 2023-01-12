@@ -1,2 +1,2 @@
 vless://e4bf6781-a384-4bfd-9f84-990dea58ed83@Aikx.duejncn.repl.co:443?encryption=none&security=tls&type=ws&host=Aikx.duejncn.repl.co&path=%2Fe4bf6781-a384-4bfd-9f84-990dea58ed83-vless
-
+vless://fa35a359-84ee-4f58-b1df-5ad313b1298d@345.duejncn.repl.co:443?encryption=none&security=tls&type=ws&host=345.duejncn.repl.co&path=%2Ffa35a359-84ee-4f58-b1df-5ad313b1298d-vless
